@@ -1,4 +1,4 @@
-# imdb
+# tmdb
 
 The Movie Database
 This project is part of Udacity Data Analyst Nanodegree.
